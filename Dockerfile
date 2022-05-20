@@ -1,5 +1,5 @@
 FROM frolvlad/alpine-java:jdk8-slim
-MAINTAINER Michael
+MAINTAINER zhangyajing
 ENV TZ "Asia/Shanghai"
 ENV LANG C.UTF-8
 VOLUME /tmp
